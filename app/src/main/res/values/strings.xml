@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Colmenar Viejo TourGuide</string>
+
+    <string name="category_sightseeing">Sightseeing</string>
+    <string name="category_green_zones">Green Zones</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_council">Council</string>
+
+    <!-- SightseeingActivity -->
+    <string name="basilica">Basílica de la Asunción de Nuestra Señora</string>
+    <string name="basilica_dir"> Calle del Cura, 14</string>
+
+    <string name="hermita_de_remedios">Ermita de Nuestra Señora de los Remedios</string>
+    <string name="hermita_de_remedios_dir">Carretera Guadalix, Km. 4.5</string>
+
+    <string name="puente_del_grajal">Puente del Grajal</string>
+    <string name="puente_del_grajal_dir">Parque Regional Cuenca Alta Manzanares, M-618</string>
+
+    <string name="plaza_ayuntamiento">Plaza del Ayuntamiento</string>
+    <string name="plaza_ayuntamiento_dir">Plaza del Pueblo, 1</string>
+
+    <string name="museo_geologico">Museo geológico al aire libre</string>
+    <string name="museo_geologico_dir">Calle del Molino de Viento</string>
+
+    <string name="estacion_renfe">Estacion de Renfe</string>
+    <string name="estacion_renfe_dir">Extrarradio Diseminado, 117</string>
+
+    <string name="plaza_de_toros">Plaza de Toros</string>
+    <string name="plaza_de_toros_dir">Avenida remedios-plaza de Toros</string>
+
+    <!-- GreenZonesActivity -->
+    <string name="cerro_san_pedro">Cerro de San Pedro</string>
+    <string name="cerro_san_pedro_dir">Calle Diseminado, 105</string>
+
+    <string name="parque_lineal_magdalena">Parque Lineal de la Magdalena</string>
+    <string name="parque_lineal_magdalena_dir">Calle Navarrosillos, 2</string>
+
+    <string name="parque_rodriguez_de_la_fuente">Parque Rodiguez dce la Fuente</string>
+    <string name="parque_rodriguez_de_la_fuente_dir">Calle Fuente del Pino, 4T</string>
+
+    <!--RestaurantsActivity -->
+    <string name="gempil">Bar Gempil</string>
+    <string name="gempil_dir">Rio Tajo, 1</string>
+
+    <string name="taste">Taste II</string>
+    <string name="taste_dir">Calle Molino de Viento, 8</string>
+
+    <string name="mala_suerte">La Mala Suerte</string>
+    <string name="mala_suerte_dir">Calle Ventanilla, 8</string>
+
+    <!--CouncilActivity -->
+    <string name="ayuntamiento">Ayuntamiento Colmenar Viejo</string>
+    <string name="ayuntamiento_dir">Plaza del Pueblo, 1</string>
+
+    <string name="centro_salud">Centro de Salud Norte</string>
+    <string name="centro_salud_dir">Plaza De los Ríos, 1</string>
+
+    <string name="biblioteca_miguel_cervantes">Biblioteca Miguel de Cervantes</string>
+    <string name="biblioteca_miguel_cervantes_dir">Calle Corazón de María, s/n</string>
+
+    <string name="juzgados">Biblioteca Miguel de Cervantes</string>
+    <string name="juzgados_dir">Calle del Padre Claret, 13</string>
+</resources>

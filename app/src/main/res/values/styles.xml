@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Style for the categories -->
+    <style name="CategoryStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/list_item_height</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+
+    <!-- Style for the MainActivity Frame -->
+    <style name="FrameworkStyle">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:layout_marginLeft">@dimen/framework_side_margin</item>
+        <item name="android:layout_marginRight">@dimen/framework_side_margin</item>
+        <item name="android:layout_marginTop">@dimen/framework_up_down_margin</item>
+        <item name="android:layout_marginBottom">@dimen/framework_up_down_margin</item>
+    </style>
+
+    <!-- Style for tittle text in list_item.xml -->
+    <style name="titleStyle">
+        <item name="android:textAppearance">@style/Base.TextAppearance.AppCompat.Medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingBottom">@dimen/padding_text</item>
+        <item name="android:layout_marginLeft">@dimen/margin_left_right_ImageView</item>
+    </style>
+
+    <!-- Style for location text in list_item.xml -->
+    <style name="locationStyle" parent="titleStyle">
+        <item name="android:textAppearance">@style/Base.TextAppearance.AppCompat.Small</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>

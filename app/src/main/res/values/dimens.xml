@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+
+    <dimen name="framework_side_margin">16dp</dimen>
+    <dimen name="framework_up_down_margin">8dp</dimen>
+
+    <!-- list_item.xml Dimensions -->
+    <dimen name="height_picture">66dp</dimen>
+    <dimen name="width_picture">112dp</dimen>
+    <dimen name="margin_left_right_ImageView">8dp</dimen>
+    <dimen name="padding_text">8dp</dimen>
+
+    <!-- CardView Dimensions -->
+    <dimen name="cornerRadiusCardView">5dp</dimen>
+    <dimen name="marginLeftAndRightCardView">16dp</dimen>
+    <dimen name="marginTopAndBottomCardView">8dp</dimen>
+</resources>
